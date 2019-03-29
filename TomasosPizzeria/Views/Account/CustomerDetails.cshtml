@@ -1,0 +1,46 @@
+﻿@model TomasosPizzeria.ViewModels.ViewModelOrders
+
+<div id="menu">
+    <h3><a asp-controller="Order" asp-action="OrderingDishes">Back to Main Menu</a></h3>
+</div>
+
+
+<h3>  Contact Information:</h3>
+<div class="row justify-content-center">
+
+
+
+    <form asp-controller="Account" asp-action="CustomerDetails" method="post" id="customer">
+
+        <h3>Name: @Model.loggedCustomer.Namn </h3>
+        @*<input asp-for="@Model.loggedCustomer.Namn">*@
+
+        <br />
+        @*<label asp-for="@Model.loggedCustomer.Gatuadress"></label>*@
+        <label> Address: </label>
+        <p><input asp-for="@Model.loggedCustomer.Gatuadress"></p>
+
+        <label> City: </label>
+        @*<label asp-for="@Model.loggedCustomer.Postort"></label>*@
+        <p><input asp-for="@Model.loggedCustomer.Postort"></p>
+
+        <label> Postal Code: </label>
+        <p> <input asp-for="@Model.loggedCustomer.Postnr"></p>
+
+        <label>Email: </label>
+        <p><input asp-for="@Model.loggedCustomer.Email"></p>
+
+
+        <label> Telephone: </label>
+        <p><input asp-for="@Model.loggedCustomer.Telefon"></p>
+
+
+
+        <br />
+
+        <input type="submit" value="Update" />
+
+        <br /><br /> <br /><br />
+
+    </form>
+</div>

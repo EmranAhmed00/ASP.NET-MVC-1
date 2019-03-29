@@ -1,0 +1,27 @@
+﻿
+@model TomasosPizzeria.ViewModels.ViewModelOrders
+
+<div id="ConfirmOrder" >
+    <h3><a asp-controller="Order" asp-action="OrderingDishes">Back to Main Menu </a> </h3>
+</div>
+
+@*<h3> Customer Name: @Model.loggedCustomer.Namn </h3>*@
+<div class="card" id="vieworder">
+    <h4> Your order </h4>
+    <form>
+
+        @foreach (var dish in Model.orderedDishes)
+        {
+
+            <p>Dish Name: @dish.MatrattNamn</p>
+            <p> Price: @dish.Pris Kr</p>
+
+        }
+
+        <h4>Total Price of the Order: @Model.orderedDishes.Sum(p => p.Pris) Kr</h4>
+
+        <h3> <a asp-controller="Order" asp-action="CompleteOrder" asp-route-totalBelopp="@Model.orderedDishes.Sum(p => p.Pris)"> Confirm the Order </a> </h3>
+
+        <br />  <br />  <br />  <br />
+    </form>
+</div>

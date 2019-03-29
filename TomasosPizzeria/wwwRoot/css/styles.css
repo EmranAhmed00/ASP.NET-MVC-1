@@ -1,0 +1,161 @@
+﻿
+#create {
+   
+    background-color: floralwhite;
+    width: 400px;
+  
+    margin:auto;
+}
+
+#dishType {
+    font: 25px;
+    color: #900a0b;
+    background-color: lightgoldenrodyellow;
+    width: 600px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+
+#Up:hover {
+    background-color: lightgoldenrodyellow;
+    color: #900a0b;
+}
+
+#vieworder {
+    color: #900a0b;
+    background-color: lightgoldenrodyellow;
+    width: 500px;
+    margin: auto;
+}
+
+#update {
+    color: #900a0b;
+    background-color: lightgoldenrodyellow;
+    width: 500px;
+    margin: auto;
+    padding:5%;
+}
+
+#name {
+    
+    color: #900a0b;
+    /*background-color: lightgoldenrodyellow;*/
+   
+    font-family: 'Comic Sans MS';
+}
+
+/*#dish {
+    margin: auto;
+}*/
+
+#sentOrder {
+    color: #900a0b;
+    background-color: lightgoldenrodyellow;
+    width: 500px;
+    margin: auto;
+    padding: 5%;
+}
+
+/*#customer {
+    margin: auto;
+}*/
+
+#login {
+    margin: auto;
+    width: 650px;
+}
+
+
+
+nav ul{
+    list-style-type:none;
+    /*margin:auto;
+    padding:0;
+    overflow:hidden;*/
+    background-color:grey;
+    color:floralwhite;
+
+
+}
+
+nav li {
+  
+    /*float:left;*/
+ text-align:center;
+}
+
+    nav li a {
+        display: inline-block;
+     
+        color: floralwhite;
+        /*text-align:center;*/
+        padding: 0;
+        text-decoration: none;
+        font-size: 25px;
+    }
+
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color: floralwhite;
+    width: 100%;
+}
+
+
+#picture{
+    height: 200px;
+    
+    width:100%;
+
+}
+#welcome {
+    width: 100%;
+    font: 25px;
+    color: #900a0b;
+    background-color: lightgoldenrodyellow;
+    width: 600px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    margin:auto;
+    padding:2%;
+}
+
+
+#menu {
+    padding:1%;
+    font-size: 25px;
+    color: #900a0b;
+  
+}
+
+
+/*#ConfirmOrder {
+    padding: 1%;
+    font-size: 25px;
+    color: #900a0b;
+   
+    
+}*/
+
+
+    /*#ConfirmOrder:hover {
+        background-color: lightgoldenrodyellow;
+        color: #900a0b;
+    }*/
+
+#ConfirmOrder {
+    width: 100px;
+    height: 100px;
+    background: lightgoldenrodyellow;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+}
+
+    #ConfirmOrder:hover {
+        width: 420px;
+        height: 100px;
+    }

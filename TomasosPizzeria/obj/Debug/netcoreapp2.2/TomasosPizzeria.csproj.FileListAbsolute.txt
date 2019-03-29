@@ -1,0 +1,66 @@
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.deps.json
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.runtimeconfig.json
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.runtimeconfig.dev.json
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.dll
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorAssemblyInfo.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorAssemblyInfo.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.AssemblyInfoInputs.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.AssemblyInfo.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorTargetAssemblyInfo.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.pdb
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.dll
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.pdb
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.Views.dll
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.Views.pdb
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.TagHelpers.input.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.TagHelpers.output.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorCoreGenerate.cache
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorTargetAssemblyInfo.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.Views.pdb
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csproj.CopyComplete
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\LogIn.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\CreateAccount.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\CustomerDetails.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\ViewDishes.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\OrderingDishes.g.cshtml.cs
+C:\Users\emran\source\repos\ASP_NET\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\Update.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.deps.json
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.runtimeconfig.json
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.runtimeconfig.dev.json
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.dll
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.pdb
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.Views.dll
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\bin\Debug\netcoreapp2.2\TomasosPizzeria.Views.pdb
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csprojAssemblyReference.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorAssemblyInfo.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorAssemblyInfo.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.AssemblyInfoInputs.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.AssemblyInfo.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.TagHelpers.input.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.TagHelpers.output.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorCoreGenerate.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\CreateAccount.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\CustomerDetails.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\LogIn.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Account\Update.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\OrderingDishes.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Order\ViewDishes.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorTargetAssemblyInfo.cache
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.RazorTargetAssemblyInfo.cs
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.Views.pdb
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.dll
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.pdb
+C:\Users\emran\Desktop\.NET CMS\ASP.NET MVC 1\Assignment\TomasosPizzeria\TomasosPizzeria\obj\Debug\netcoreapp2.2\TomasosPizzeria.csproj.CopyComplete

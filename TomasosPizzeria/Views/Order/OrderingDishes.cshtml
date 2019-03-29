@@ -1,0 +1,58 @@
+﻿
+
+@model TomasosPizzeria.ViewModels.ViewModelOrders
+
+<div class="row justify-content-center">
+    <div class="col-sm-6" id="name">
+        @*@if (Model.loggedCustomer != null)
+        {
+            <h3> Welcome!!!  @Model.loggedCustomer.Namn  </h3>
+        }*@
+        <h2> Welcome!!!  @Model.loggedCustomer.Namn  </h2>
+    </div>
+    <div class="text-left" id="Up">
+        <h4><a asp-controller="Account" asp-action="CustomerDetails"> Update Contact Information</a></h4>
+
+     
+    </div>
+</div>
+
+<h3>Order Your Dishes</h3>
+
+<div class="row justify-content-center">
+
+
+    <form asp-controller="Order" asp-action="OrderingDishes" method="post" id="dish">
+
+
+        @foreach (var dishTypeData in Model.dishByTypes)
+        {
+            <div class="card" id="dishType">
+                <h1>  @dishTypeData.Key </h1>
+                <br />
+
+                @foreach (var dish in dishTypeData.Value)
+                {
+                    <h4> @dish.MatrattNamn</h4> @*<p> Description: @dish.Beskrivning</p>*@
+                    <p> Ingredients: @Model.dishIngredients[dish]</p>
+
+                    <p> Price: @dish.Pris Kr</p>
+                   
+                    
+                        <h5><a asp-controller="Order" asp-action="AddDish" asp-route-id="@dish.MatrattId"> Add >> </a></h5>
+                    
+
+                }
+
+            </div>
+        }
+
+        <br /><br />
+      
+        <h4><a asp-controller="Order" asp-action="Checkout">Review the Order</a></h4>
+
+        
+        <br /><br /> <br /><br />
+    </form>
+
+</div>

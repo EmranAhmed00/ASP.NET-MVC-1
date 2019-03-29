@@ -1,0 +1,30 @@
+﻿@model TomasosPizzeria.ViewModels.LoginViewModel
+
+<h3>Sign In here :</h3>
+
+<form asp-controller="Account" asp-action="LogIn" method="post" id="login">
+
+    @*<label>User Name</label>*@
+    <label asp-for="@Model.UserName"></label>
+    <br />
+    <input asp-for="@Model.UserName" maxlength="20" />
+    <span asp-validation-for="@Model.UserName"></span>
+
+    <br />
+    @*<label>Password</label>*@
+    <label asp-for="@Model.Password"></label>
+    <br />
+    <input asp-for="@Model.Password" maxlength="20" />
+    <span asp-validation-for="@Model.Password"></span>
+    <br />
+
+
+    <br /><br />
+
+
+    <input type="submit" value="Sign in" />
+
+    <br /><br /> <br />
+
+</form>
+
